@@ -1,4 +1,4 @@
-**Base URL:** https://cullen-vlsci.github.io/custom-nintex-forms/
+**Base URL:** https://verdesian-it.github.io/Nintex/
 
 **Theme Colors HEX Values**
 
@@ -8,14 +8,14 @@ Green: 67bd4a
 
 **Task Form Custom CSS**
 
-Generic Task Form Custom CSS URL: https://cullen-vlsci.github.io/custom-nintex-forms/general-use-custom-task-form.css
+Generic Task Form Custom CSS URL: https://verdesian-it.github.io/Nintex/general-use-custom-task-form.css
 
-New SKU Request Task Form Custom CSS URL: https://cullen-vlsci.github.io/custom-nintex-forms/new-sku-custom-task-form.css
+New SKU Request Task Form Custom CSS URL: https://verdesian-it.github.io/Nintex/new-sku-custom-task-form.css
 
-Purchase Order Task Form Custom CSS URL: https://cullen-vlsci.github.io/custom-nintex-forms/purchase-order-custom-start-form.css
+Purchase Order Task Form Custom CSS URL: https://verdesian-it.github.io/Nintex/purchase-order-custom-start-form.css
 
 **Images**
 
-Checkmark (Green) SVG URL: https://cullen-vlsci.github.io/custom-nintex-forms/GreenCheckmark.svg
+Checkmark (Green) SVG URL: https://verdesian-it.github.io/Nintex/GreenCheckmark.svg
 
-Horizontal Logo (White) PNG URL: https://cullen-vlsci.github.io/custom-nintex-forms/horizontal-logo-white.png
+Horizontal Logo (White) PNG URL: https://verdesian-it.github.io/Nintex/horizontal-logo-white.png
